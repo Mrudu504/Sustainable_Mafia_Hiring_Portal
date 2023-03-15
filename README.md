@@ -3,7 +3,7 @@ Project submission for UI/UX Competition
 
  Sustainable Mafia Hiring Portal.
 
-# Sustainable Mafia Hiring Portal Readme
+### Sustainable Mafia Hiring Portal 
 
 Welcome to the Sustainable Mafia Hiring Portal, a unique platform that combines the world of mafia with job hiring! This portal is designed to help mafiosos find the right candidates for their companies, and for candidates to find the perfect job that suits their skills and interests.
 
