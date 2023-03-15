@@ -30,3 +30,12 @@ The Matches page is where all the shortlisted candidates are added, and Mafiosos
 
 ### Conclusion
 The Sustainable Mafia Hiring Portal is a unique platform that brings together the world of mafia and job hiring. This platform is designed to help Mafiosos find the right candidates for their companies, and for candidates to find the perfect job that suits their skills and interests. We hope you enjoy using this platform, and we welcome any feedback or suggestions you may have.
+
+
+
+## How to Run -
+
+-Download zip folder of GitHub
+-Extract all the files
+-Click on index.html file
+-You will redirect to the entry point of the project
